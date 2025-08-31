@@ -2,7 +2,7 @@
 
 
 
-![Demo](/src/assets/demo.mp4)
+![Demo](/src/assets/demo.gif)
 --
 
 > ⚠️ Due to paid APIs, if you truly want to use this product or learn more about it, please contact me at **syedmammar123 [at] gmail [dot] com**.
